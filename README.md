@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Swapnil 👋</h2>
-<h4 align="center">A full stack web developer (MERN)</h4>
+<h4 align="center">A Front-End Developer at Motorola</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -12,7 +12,7 @@
 </p>
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=swapnilkr)
+![visitors](https://profile-counter.glitch.me/{swapnilkr}/count.svg)
 
 
 Computer Science & Engineering at Sapthagiri College of Engineering (Location: Bangalore, Karnataka, India) I'm a Full Stack (MERN) Developer 🤓 | Pythoneer 🐍 | Open Source Contributor 📝| Competitive Programmer🤠 | machine learning enthusiast 🥳. Looking forward to utilize my Web Development, Software Development in a Dynamic Environment. 🧑🏻
