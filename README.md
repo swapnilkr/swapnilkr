@@ -15,14 +15,12 @@
 ![visitors](https://profile-counter.glitch.me/{swapnilkr}/count.svg)
 
 
-Computer Science & Engineering at Sapthagiri College of Engineering (Location: Bangalore, Karnataka, India) I'm a Full Stack (MERN) Developer 🤓 | Pythoneer 🐍 | Open Source Contributor 📝| Competitive Programmer🤠 | machine learning enthusiast 🥳. Looking forward to utilize my Web Development, Software Development in a Dynamic Environment. 🧑🏻
+Front-End Developer at Motorola | Computer Science & Engineering at Sapthagiri College of Engineering | Proficient in React.js, JavaScript, TypeScript, Vtex, Html, Css 🤓 | Pythoneer @ CP 🐍 | Open Source Contributor 📝| Competitive Programmer🤠 | Looking forward to utilize my Web Development, Software Development in a Dynamic Environment. 🧑🏻
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/swapnilkr](https://github.com/swapnilkr)
 - 📫 How to reach me **swapnilkr099@gmail.com**
 - 📄 Know about my experiences [https://swapnilkr.github.io/Build-Your-Virtual-Resume/](https://swapnilkr.github.io/Build-Your-Virtual-Resume/)
-- 🔭 I’m currently working on updating minor project to major using React
-- 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on any cool project
 - 🤔 I’m looking for help with Open Source Project Development
 - ⚡ Fun fact: Caffeine helps me Code.. ☕
