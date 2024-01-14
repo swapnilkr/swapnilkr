@@ -33,5 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnilkr&show_icons=true&theme=dark&locale=en" alt="swapnilkr" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swapnilkr&theme=dark" style="font-family: 'Poppins', sans-serif;" alt="swapnilkr" /></p>
-
+![](https://github-contributor-stats.vercel.app/api?username=swapnilkr&limit=5&theme=dark&combine_all_yearly_contributions=true)
