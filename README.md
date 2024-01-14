@@ -35,5 +35,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swapnilkr&theme=dark" alt="swapnilkr" /></p>
 
-[![GitHub contributions](https://img.shields.io/github/last-commit/swapnilkr/README.md)](https://github.com/swapnilkr/README.md)
-
