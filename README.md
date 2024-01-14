@@ -34,3 +34,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnilkr&show_icons=true&theme=dark&locale=en" alt="swapnilkr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swapnilkr&theme=dark" alt="swapnilkr" /></p>
+
+[![GitHub contributions](https://img.shields.io/github/last-commit/swapnilkr/README.md)](https://github.com/swapnilkr/README.md)
+
