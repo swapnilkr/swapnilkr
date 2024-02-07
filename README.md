@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swapnil</h1>
-<h3 align="center">Crafting Dynamic Experiences with React and JavaScript Wizardry</h3>
+<h3 align="center">Crafting Dynamic Experiences with React and JavaScript Wizardry </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilkr&label=Profile%20views&color=0e75b6&style=plastic" alt="swapnilkr" /> </p>
 
