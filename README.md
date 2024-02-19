@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **swapnilkr099@gmail.com**
 
-- 📄 Know about my experiences [https://swapnilkr.github.io/Build-Your-Virtual-Resume/](https://swapnilkr.github.io/CodeGraffiti)
+- 📄 Know about my experiences [https://swapnilkr.github.io/CodeGraffiti/](https://swapnilkr.github.io/CodeGraffiti)
 
 - ⚡ Fun fact **Turning Coffee into Code**
 
