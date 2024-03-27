@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **Motorola Mobility**
 
-- 🌱 I’m currently learning **Web3, TailWind**
+- 🌱 I’m currently learning **Next.js, TailWind**
 
 - 👨‍💻 All of my projects are available at [https://github.com/swapnilkr](https://github.com/swapnilkr)
 
