@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilkr&label=Profile%20views&color=0e75b6&style=plastic" alt="swapnilkr" /> </p>
 
-- 🔭 I’m currently working at **Motorola Mobility**
+- 🔭 I’m currently working at **Razorpay**
 
 - 🌱 I’m currently learning **Next.js, TailWind**
 
 - 👨‍💻 All of my projects are available at [https://github.com/swapnilkr](https://github.com/swapnilkr)
 
-- 💬 Ask me about **react, JS, TS, VTEX, GCP, API**
+- 💬 Ask me about **react, JS, TS, VTEX, GCP, API, Blade DS**
 
 - 📫 How to reach me **swapnilkr099@gmail.com**
 
