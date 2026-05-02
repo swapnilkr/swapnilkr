@@ -28,11 +28,7 @@
 ### 🌐 Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/swapnil-kumar-050337188/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://twitter.com/s_for_swapnil" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://www.codechef.com/users/swapnilkr099" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://www.leetcode.com/swapnilkr" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://auth.geeksforgeeks.org/user/swapnilkr099" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/swapnil-kumar-050337188/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="28" width="28" /></a>&nbsp;&nbsp;<a href="https://twitter.com/s_for_swapnil" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="28" width="28" /></a>&nbsp;&nbsp;<a href="https://www.codechef.com/users/swapnilkr099" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="28" width="28" /></a>&nbsp;&nbsp;<a href="https://www.leetcode.com/swapnilkr" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="28" width="28" /></a>&nbsp;&nbsp;<a href="https://auth.geeksforgeeks.org/user/swapnilkr099" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="28" width="28" /></a>
 </p>
 
 ---
