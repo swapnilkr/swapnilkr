@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swapnil</h1>
-<h3 align="center">Crafting Dynamic Experiences with React and JavaScript Wizardry </h3>
-<h2 align="center">Design Systems | AI-powered Developer Tooling</h2>
+<h3 align="center">Building UI with React & TypeScript</h3>
+<h4 align="center">Design Systems | AI-powered Developer Tooling</h4>
 
 ---
 
@@ -13,7 +13,6 @@
 - 🌱 Currently exploring **Next.js & system design**
 - 💬 Ask me about **React, JS/TS, APIs, Design Systems**
 - ⚡ Fun fact: **Turning coffee into code ☕**
-
 
 ---
 
@@ -28,13 +27,13 @@
 
 ### 🌐 Connect with me
 
-<div display="flex" gap="8px" flex-direction="row">
-<a href="https://linkedin.com/in/swapnil-kumar-050337188/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swapnil-kumar-050337188/" height="30" width="40" /></a>
-<a href="https://twitter.com/s_for_swapnil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="s_for_swapnil" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/swapnilkr099" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="swapnilkr099" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/swapnilkr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swapnilkr" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/swapnilkr099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="swapnilkr099" height="30" width="40" /></a>
-</div>
+<p align="left">
+<a href="https://linkedin.com/in/swapnil-kumar-050337188/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/s_for_swapnil" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.codechef.com/users/swapnilkr099" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.leetcode.com/swapnilkr" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://auth.geeksforgeeks.org/user/swapnilkr099" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" /></a>
+</p>
 
 ---
 
