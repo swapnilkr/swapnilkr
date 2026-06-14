@@ -25,9 +25,11 @@
 
 ---
 
-### GitHub Accounts
+### 📌 Previous GitHub Profile
 
-- Work GitHub: [https://github.com/your-work-username](https://github.com/swapnil-kr1)
+Some of my earlier projects, open-source contributions, and development activity are available on:
+
+➡️ **@swapnil-kr1** — https://github.com/swapnil-kr1
 
 ---
 
