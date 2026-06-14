@@ -25,6 +25,12 @@
 
 ---
 
+### GitHub Accounts
+
+- Work GitHub: [https://github.com/your-work-username](https://github.com/swapnil-kr1)
+
+---
+
 ### 🌐 Connect with me
 
 <p align="center">
