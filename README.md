@@ -66,8 +66,8 @@ Some of my earlier projects, open-source contributions, and development activity
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swapnilkr&show_icons=true&theme=dark&locale=en&layout=compact" alt="swapnilkr" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swapnilkr&show_icons=true&theme=dark&locale=en&layout=compact" alt="swapnilkr" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnilkr&show_icons=true&theme=dark&locale=en" alt="swapnilkr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnilkr&show_icons=true&locale=en&theme=dark" alt="swapnilkr" /></p>
 
-<!--![](https://github-readme-streak-stats.herokuapp.com/?user=swapnilkr&theme=dark&hide_border=false) -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swapnilkr&theme=dark" alt="swapnilkr" /></p>
