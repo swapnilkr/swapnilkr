@@ -29,7 +29,7 @@
 
 Some of my earlier projects, open-source contributions, and development activity are available on:
 
-➡️ <a href="https://github.com/swapnil-kr1" target="_blank">**@swapnil-kr1** </a>
+➡️ <a href="https://github.com/swapnil-kr1" target="_blank">swapnil-kr1</a>
 
 ---
 
